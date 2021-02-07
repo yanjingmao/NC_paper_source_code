@@ -1,7 +1,7 @@
-# Source code for manuscript "..."
+# Source code for manuscript "Deep learning-based predictive identification of neural stem cell differentiation"
 
 ## Introduction
-This repository is used for publishing source code and the related usage in the manuscript "...".
+This repository is used for publishing source code and the related usage in the manuscript "Deep learning-based predictive identification of neural stem cell differentiation".
 
 ## Requirement
 * Ubuntu: 18.04
@@ -23,4 +23,4 @@ Label | Description
 Detailed demo code is shown in `demo.py`, which utilizes the data in `example_data` directory.
 
 ## Citation
-...(**Manuscript submitted**)
+Yanjing Zhu, Rongrong Zhu et al. *Deep learning-based predictive identification of neural stem cell differentiation* (**Manuscript submitted**)
