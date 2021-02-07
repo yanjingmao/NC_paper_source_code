@@ -15,6 +15,7 @@ This repository is used for publishing source code and the related usage in the 
 
 ### Labels for the trained model
 Label | Description
+-----------|------------
 0 | Astrocyte
 1 | Oligodendrocyte
 2 | Neuron
