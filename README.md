@@ -1,7 +1,7 @@
-# Source code for Nature Coommunication manuscript "..."
+# Source code for manuscript "..."
 
 ## Introduction
-This repository is used for publishing source code and the related usage in the Nature Coommunication manuscript "...".
+This repository is used for publishing source code and the related usage in the manuscript "...".
 
 ## Requirement
 * Ubuntu: 18.04
