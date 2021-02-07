@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-import dlutil as dl
 
 
 class SeparableConv2D(nn.Module):
