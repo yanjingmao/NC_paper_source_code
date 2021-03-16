@@ -1,4 +1,5 @@
 # Source code for manuscript "Deep learning-based predictive identification of neural stem cell differentiation"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4606918.svg)](https://doi.org/10.5281/zenodo.4606918)
 
 ## Introduction
 This repository is used for publishing source code and the related usage in the manuscript "Deep learning-based predictive identification of neural stem cell differentiation".
